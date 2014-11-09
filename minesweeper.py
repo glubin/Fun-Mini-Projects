@@ -1,5 +1,4 @@
 import random
-import sys
 
 cols = int(raw_input("Columns: "))
 rows = int(raw_input("Rows: "))
